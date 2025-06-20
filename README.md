@@ -14,3 +14,10 @@ The main goal was to take a handful of important performance metrics (KPIs) and 
 - State wise and last_credit_pull_d wise loan status
 
 - Home ownership Vs last payment date stats
+## Insights:
+
+- We can clearly see that there is gradual increase in loan amount taken from one year to another year.
+- Revol_bal is more in grade B customers and least in grade G customers.
+- The data indicates a clear distinction in total payments between verified and non-verified status. Verified accounts, comprising 41.12% of the total, have contributed $153.54 million, while non-verified accounts, representing 58.88%, have contributed $219.89 million.
+- Fully Paid had the highest total Count of loan_status at 32,950, followed by Charged Off at 5627 and Current at 1140.
+- Across all 5 home ownership. Count of last payment range from 3 to 18899.Rent accounted for 47.54% of last payment.And none has least last payment count.
